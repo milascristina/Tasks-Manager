@@ -3,7 +3,7 @@ Purpose: Manage to-do tasks.
 
 Entity: Task
 
-id: Int?
+id: Int
 
 title: String
 
